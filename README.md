@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning various programming courses.
 - 💞️ I’m looking to collaborate on projects related to marking mobile applications or web pages.
 - 📫 How to reach me email rickydios27@gmail.com
-- 😄 Pronouns: @ricode-icaito
+- 😄 Pronouns: @ricodi-icaito
 - ⚡ Fun fact: I am addicted to music.
 
 <!---
